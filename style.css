@@ -1,0 +1,71 @@
+#black {
+  color: black;
+}
+
+#first {
+  color: #b1b1b1;
+  font-size: 4rem;
+  font-family: monospace;
+}
+
+#firstl {
+  color: #b1b1b1;
+  font-family: monospace;
+}
+
+#firstlc {
+  color: #b1b1b1;
+  font-family: monospace;
+  cursor: pointer;
+}
+
+#brown {
+  background-color: darkslategrey;
+}
+
+.container {
+  display: flex;
+}
+
+#home {
+  font-size: 2rem;
+}
+
+#nav {
+  background-color: black;
+  max-width: 10%;
+  min-width: 140px;
+  height: 500px;
+  flex: 1;
+}
+
+.nav h1 {
+  padding-left: 20px;
+}
+
+
+
+#cursor {
+  cursor: pointer;
+}
+
+#big {
+  font-size: 10rem;
+}
+
+#create {
+  color: aquamarine;
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+#username {
+  color: aquamarine;
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+#usernames {
+  font-family: monospace;
+  font-size: 2rem;
+}
