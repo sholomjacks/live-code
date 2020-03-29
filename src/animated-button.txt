@@ -1,0 +1,8 @@
+<a href="link" class="animated-button1" onClick={function}>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+Submit
+</a>
+
